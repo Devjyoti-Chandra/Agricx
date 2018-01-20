@@ -1,0 +1,2 @@
+4) The distance transform provides a metric or measure of the separation of points in the image.
+5) OpenCV is mainly used for pre processing of images and deep learning mainly used model building and predictions.
